@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0273-integer-to-english-words](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0273-integer-to-english-words) |
+| [3697-compute-decimal-representation](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3697-compute-decimal-representation) |
 ## String
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [3697-compute-decimal-representation](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3697-compute-decimal-representation) |
 <!---LeetCode Topics End-->

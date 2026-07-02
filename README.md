@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3697-compute-decimal-representation](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3697-compute-decimal-representation) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->

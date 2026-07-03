@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0273-integer-to-english-words](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0273-integer-to-english-words) |
 | [3697-compute-decimal-representation](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3697-compute-decimal-representation) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0273-integer-to-english-words](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0273-integer-to-english-words) |
 ## Recursion
 |  |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0184-department-highest-salary) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0196-delete-duplicate-emails) |
 ## Hash Table
 |  |
 | ------- |

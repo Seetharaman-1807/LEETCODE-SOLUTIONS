@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [3697-compute-decimal-representation](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3697-compute-decimal-representation) |
 ## Database
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -86,5 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

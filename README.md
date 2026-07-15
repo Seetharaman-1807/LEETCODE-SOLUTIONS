@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0273-integer-to-english-words) |
 | [1025-divisor-game](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1025-divisor-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3697-compute-decimal-representation) |
 ## String
 |  |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

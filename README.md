@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
+| [0485-max-consecutive-ones](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [3697-compute-decimal-representation](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3697-compute-decimal-representation) |

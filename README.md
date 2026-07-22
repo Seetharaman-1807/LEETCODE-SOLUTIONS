@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
+| [0118-pascals-triangle](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0010-regular-expression-matching) |
+| [0118-pascals-triangle](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1025-divisor-game) |
 ## Brainteaser

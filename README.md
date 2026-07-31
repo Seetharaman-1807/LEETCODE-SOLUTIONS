@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |

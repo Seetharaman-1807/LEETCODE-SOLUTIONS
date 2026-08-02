@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [1051-height-checker](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |

@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3697-compute-decimal-representation](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3697-compute-decimal-representation) |
 | [3731-find-missing-elements](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |

@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |

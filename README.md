@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0071-simplify-path) |
+| [0087-scramble-string](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0087-scramble-string) |
 | [0242-valid-anagram](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0010-regular-expression-matching) |
+| [0087-scramble-string](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |

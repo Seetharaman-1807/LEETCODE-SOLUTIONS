@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |

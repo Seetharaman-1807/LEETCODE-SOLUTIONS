@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0010-regular-expression-matching) |
 | [0087-scramble-string](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |

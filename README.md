@@ -230,10 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [3310-remove-methods-from-project](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [3310-remove-methods-from-project](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -259,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->

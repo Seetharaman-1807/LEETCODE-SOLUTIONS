@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0087-scramble-string) |
 | [0242-valid-anagram](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |

@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 ## Array
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0191-number-of-1-bits) |
 ## Counting
@@ -285,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

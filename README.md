@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
+| [0415-add-strings](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
+| [0415-add-strings](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0415-add-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Recursion
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |

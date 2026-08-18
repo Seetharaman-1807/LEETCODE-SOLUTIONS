@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3697-compute-decimal-representation](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3697-compute-decimal-representation) |
 | [3731-find-missing-elements](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |

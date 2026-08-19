@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [1051-height-checker](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1470-shuffle-the-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
+| [1386-cinema-seat-allocation](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0191-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 ## Simulation
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |

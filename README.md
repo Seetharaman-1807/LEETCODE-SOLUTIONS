@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting

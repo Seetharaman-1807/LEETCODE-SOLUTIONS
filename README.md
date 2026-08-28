@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0441-arranging-coins](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0441-arranging-coins) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |

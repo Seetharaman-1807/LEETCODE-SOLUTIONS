@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3697-compute-decimal-representation](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3697-compute-decimal-representation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -330,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Seetharaman-1807/LEETCODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
